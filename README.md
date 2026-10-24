@@ -155,7 +155,7 @@ DEV Community · System validation and execution boundaries
 <td width="50%" valign="top">
 
 <a href="https://daily.dev/posts/your-ai-agent-says-done-but-did-it-actually-work--xgv0v2pc3">
-<img src="YOUR_AI_AGENT_COVER_URL" width="100%" alt="Your AI Agent Says Done. But Did It Actually Work?" />
+<img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsiv7fqfkprc7lw3cmfcg.png" width="100%" alt="Your AI Agent Says Done. But Did It Actually Work?" />
 </a>
 
 ### [Your AI Agent Says “Done.” But Did It Actually Work?](https://daily.dev/posts/your-ai-agent-says-done-but-did-it-actually-work--xgv0v2pc3)
@@ -168,7 +168,7 @@ Daily.dev · Verification and reliable execution
 <td width="50%" valign="top">
 
 <a href="https://daily.dev/posts/adding-more-servers-made-our-api-slower-here-s-why--1drdnsxau">
-<img src="YOUR_SCALING_ARTICLE_COVER_URL" width="100%" alt="Adding More Servers Made Our API Slower. Here's Why" />
+<img src="https://media.daily.dev/image/upload/s--3RN7lTdR--/f_auto,pg_1/v1792825643/posts/xGV0v2PC3?_a=BAMAMiiw0" width="100%" alt="Adding More Servers Made Our API Slower. Here's Why" />
 </a>
 
 ### [Adding More Servers Made Our API Slower. Here's Why](https://daily.dev/posts/adding-more-servers-made-our-api-slower-here-s-why--1drdnsxau)
@@ -179,7 +179,7 @@ Daily.dev · Scaling and performance
 <td width="50%" valign="top">
 
 <a href="https://dev.to/sinarezaei/how-much-coding-do-you-actually-need-in-the-ai-era-4i9o">
-<img src="YOUR_CODING_AI_ARTICLE_COVER_URL" width="100%" alt="How Much Coding Do You Actually Need in the AI Era?" />
+<img src="https://media.daily.dev/image/upload/s--5C1jf5ja--/f_auto,pg_1/v1792821464/posts/1DRdNSXau?_a=BAMAMiiw0" width="100%" alt="How Much Coding Do You Actually Need in the AI Era?" />
 </a>
 
 ### [How Much Coding Do You Actually Need in the AI Era?](https://dev.to/sinarezaei/how-much-coding-do-you-actually-need-in-the-ai-era-4i9o)
