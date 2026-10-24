@@ -59,7 +59,7 @@ Youtuber, Influencr Social Media, Podcaster
 
 ## 📊 Github Stats
 
-![sinarezaei94](https://github-readme-stats.vercel.app/api?username=sinarezaei94&theme=blue-green)
+![Starvixhub](https://github-readme-stats.vercel.app/api?username=Starvixhub&theme=blue-green)
 
 
 ## 👨 Connect with me
