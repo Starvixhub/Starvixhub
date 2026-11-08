@@ -94,6 +94,19 @@ I explore and work across multiple languages, frameworks, platforms, and develop
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"></a>
 </p>
 
+
+### <h3>Design & Creative Tools</h3>
+
+<p>
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"></a>
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator"></a>
+  <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="Adobe After Effects"></a>
+  <a href="https://www.adobe.com/products/premiere.html"><img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro"></a>
+  <a href="https://www.adobe.com/products/xd.html"><img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"></a>
+  <a href="https://www.adobe.com/products/indesign.html"><img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="Adobe InDesign"></a>
+  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+</p>
+
 ---
 
 ## Featured Projects
@@ -226,12 +239,17 @@ A selection of articles on software development, AI-assisted engineering, and sy
   <a href="https://bsky.app/profile/starvixhub.bsky.social"><img src="https://img.shields.io/badge/Bluesky-Follow-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"></a>
 </p>
 
+
 <p align="center">
   <a href="https://daily.dev/Sinarezaei"><img src="https://img.shields.io/badge/Daily.dev-Read%20%26%20Connect-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="Daily.dev"></a>
   <a href="https://dev.to/sinarezaei"><img src="https://img.shields.io/badge/DEV.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"></a>
   <a href="https://hashnode.com/@sinarezaei"><img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
   <a href="https://medium.com/@sina.rezaei"><img src="https://img.shields.io/badge/Medium-Publications-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://dribbble.com/Sinarezaei"><img src="https://img.shields.io/badge/Dribbble-Design%20Showcase-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"></a>
+  <a href="https://www.behance.net/Sinarezaei1"><img src="https://img.shields.io/badge/Behance-Creative%20Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+  <a href="https://www.pinterest.com/"><img src="https://img.shields.io/badge/Pinterest-Visual%20Inspiration-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
 </p>
+
 
 ---
 
