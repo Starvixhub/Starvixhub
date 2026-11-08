@@ -14,7 +14,7 @@ Uncomment the next line:
 
 <p align="center">
   <strong>STARVIXHUB</strong><br>
-  Project Manager · Digital Strategist · Analytics · Creator · Full-Stack Developer
+  Project Manager · Digital Strategist · Digital Designer · Analytics · Creator · Software Engineer · Full-Stack Developer
 </p>
 
 <p align="center">
